@@ -18,6 +18,7 @@
 		562324E529FE23F10010B694 /* ApiCaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324E429FE23F10010B694 /* ApiCaller.swift */; };
 		562324E729FE24090010B694 /* PercictenseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324E629FE24090010B694 /* PercictenseManager.swift */; };
 		562324E929FE24220010B694 /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324E829FE24220010B694 /* HapticsManager.swift */; };
+		562324EB29FE4BC40010B694 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324EA29FE4BC40010B694 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		562324E429FE23F10010B694 /* ApiCaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiCaller.swift; sourceTree = "<group>"; };
 		562324E629FE24090010B694 /* PercictenseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercictenseManager.swift; sourceTree = "<group>"; };
 		562324E829FE24220010B694 /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
+		562324EA29FE4BC40010B694 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				562324CE29FD70A20010B694 /* Assets.xcassets */,
 				562324C529FD70A00010B694 /* AppDelegate.swift */,
 				562324C729FD70A00010B694 /* SceneDelegate.swift */,
+				562324EA29FE4BC40010B694 /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				562324CA29FD70A00010B694 /* WatchListViewController.swift in Sources */,
 				562324E529FE23F10010B694 /* ApiCaller.swift in Sources */,
 				562324E729FE24090010B694 /* PercictenseManager.swift in Sources */,
+				562324EB29FE4BC40010B694 /* Extensions.swift in Sources */,
 				562324DF29FD72FB0010B694 /* TopStoriesNewsViewController.swift in Sources */,
 				562324C629FD70A00010B694 /* AppDelegate.swift in Sources */,
 				562324C829FD70A00010B694 /* SceneDelegate.swift in Sources */,
