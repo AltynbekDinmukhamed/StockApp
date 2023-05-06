@@ -7,7 +7,7 @@
 
 import Foundation
 
-class PercictenseManager {
+final class PercictenseManager {
     static let shared = PercictenseManager()
     
     private let userDefault: UserDefaults = .standard

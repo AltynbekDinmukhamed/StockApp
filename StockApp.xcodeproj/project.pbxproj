@@ -19,6 +19,8 @@
 		562324E729FE24090010B694 /* PercictenseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324E629FE24090010B694 /* PercictenseManager.swift */; };
 		562324E929FE24220010B694 /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324E829FE24220010B694 /* HapticsManager.swift */; };
 		562324EB29FE4BC40010B694 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324EA29FE4BC40010B694 /* Extensions.swift */; };
+		562324ED29FE4EB20010B694 /* SearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324EC29FE4EB20010B694 /* SearchTableViewCell.swift */; };
+		562324EF29FE632B0010B694 /* SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562324EE29FE632B0010B694 /* SearchResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		562324E629FE24090010B694 /* PercictenseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercictenseManager.swift; sourceTree = "<group>"; };
 		562324E829FE24220010B694 /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
 		562324EA29FE4BC40010B694 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		562324EC29FE4EB20010B694 /* SearchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewCell.swift; sourceTree = "<group>"; };
+		562324EE29FE632B0010B694 /* SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,7 @@
 		562324D929FD70EF0010B694 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				562324EE29FE632B0010B694 /* SearchResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -89,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				562324D029FD70A20010B694 /* LaunchScreen.storyboard */,
+				562324EC29FE4EB20010B694 /* SearchTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -203,7 +209,9 @@
 				562324EB29FE4BC40010B694 /* Extensions.swift in Sources */,
 				562324DF29FD72FB0010B694 /* TopStoriesNewsViewController.swift in Sources */,
 				562324C629FD70A00010B694 /* AppDelegate.swift in Sources */,
+				562324EF29FE632B0010B694 /* SearchResponse.swift in Sources */,
 				562324C829FD70A00010B694 /* SceneDelegate.swift in Sources */,
+				562324ED29FE4EB20010B694 /* SearchTableViewCell.swift in Sources */,
 				562324E129FD73270010B694 /* SearchResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
